@@ -16,7 +16,7 @@
   gap: 1rem;
   align-items: center;
   background: #ffc8dd;
-  padding: 1rem;
+  padding: 10px;
   border-radius: 20px;
   cursor: pointer;
 }
@@ -50,7 +50,7 @@ a {
   gap: 1rem;
   align-items: center;
   background: #ffc8dd;
-  padding: 1rem;
+  padding: 14px;
   border-radius: 20px;
   cursor: pointer;
   text-decoration: none;
@@ -62,6 +62,7 @@ a {
   width: 100%;
 }
 .profile-img1 {
+  margin-top: 55px;
   height: 150px;
   width: 150px;
   border-radius: 50%;
@@ -72,4 +73,3 @@ a {
   margin-top: 15px;
   text-align: center;
 }
-
