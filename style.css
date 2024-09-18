@@ -62,12 +62,14 @@ a {
   width: 100%;
 }
 .profile-img1 {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
   border-radius: 50%;
   overflow: hidden;
 }
 .profile-text {
-  margin-top: 20px;
+  font-size: 30px;
+  margin-top: 15px;
   text-align: center;
 }
+
